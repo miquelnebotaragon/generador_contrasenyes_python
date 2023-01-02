@@ -8,12 +8,11 @@
     <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
 </p>
-<div align="center"><img src="https://user-images.githubusercontent.com/57944755/210243959-bbdd9846-177d-4207-a481-7ac2510306f9.png"></div>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/57944755/210279972-392516c7-5147-472a-9325-21bab75d3b9c.png"></div>
 
 # 👁️‍🗨️ Introducció
 
-
+Generador de contrasenyes amb Python.
 
 # 💻 Escenari
 Kubuntu 22.04
