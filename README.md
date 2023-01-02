@@ -41,7 +41,7 @@ Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordina
 <p></p>📝 Descàrrega de l'arxiu .py des d'<a href="" target="_blank">aquí</a>.
 
 # 🏆 Vull saber-ne més
-Desglosam el codi:
+Desglosant el codi:
 ## Part 1:
 ```python
 #!/usr/bin/env python3
@@ -50,6 +50,12 @@ Desglosam el codi:
 # Mòduls a importar:
 import random
 
+```
+Aquesta és la part inicial i més senzilla:
+<p>· Enumeram els mòduls a importar, en aquest cas només un, random.</p>
+
+
+```python
 
 # Presentació:
 print('\nBenvinguts al generador automàtic de contrasenyes!\n')
@@ -62,7 +68,14 @@ numero_caracters = int(input('Introdueix la llargària (número) de caràcters q
 so = int(input('Finalment, és una contrasenya a emprar a un sistema Windows (1) o Linux (2)? (Si no ho tens clar tria l\'opció 1) '))
 
 ```
+
+<p>· Mostram en pantalla un text de benvinguda a l'aplicació. Acaba amb un caracter d'escapada com és <b>\n</b> que ens possibilita fer un salt de línia.</p>
+<p>· Finalment, introduïm les 5 variables que necessitarem pel funcionament de l'aplicació: caracters per generar contrasenyes per a Windows (+ informació aquí: https://ibm.co/3jFcXlj), caracters per a contrasenyes a Linux i derivats, número de contrasenyes a generar, número de caracters de cada contrasenya i, si volem que sigui per a un sistema operatiu o un altre.</p>
+<p>Com a curiositat indicar que és imprescindible que indiquem que els nombres són variables en format de número enter (int), d'altra manera no funcionarà el programa.</p>
+
 ## Part 2:
+
+```python
 
 # Execució:
 if so == 1:
@@ -88,5 +101,5 @@ else:
 ```
 
 # ➕ Informació
-1️⃣ L'arxiu **.py** ha estat comentat al detall (#) per tal de possibilitar l'anàlisi del seu funcionament.<p></p>
+1️⃣ L'arxiu **.py** ha estat comentat al detall 👆 per tal de possibilitar l'anàlisi del seu funcionament.<p></p>
 2️⃣ Aquesta aplicació ha estat creada únicament amb finalitat d'estudi i divulgació. No em faig responsable dels possibles problemes ni prejudicis que pugui provocar el seu ús.<p></p>
