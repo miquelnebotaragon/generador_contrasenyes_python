@@ -37,7 +37,7 @@ user@kubuntu-mnebot:~$ sudo pip install random
 ```
 
 # 👇 Descàrrega i execució
-Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **generar_qr_python.py**) per a la seva posterior execució: 
+Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **generar_contrasenyes_python.py**) per a la seva posterior execució: 
 <p></p>📝 Descàrrega de l'arxiu .py des d'<a href="https://github.com/miquelnebotaragon/generador_contrasenyes_python/blob/main/generar_contrasenyes_python.py" target="_blank">aquí</a>.
 
 # 🏆 Vull saber-ne més
