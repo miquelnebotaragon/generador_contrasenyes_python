@@ -42,7 +42,7 @@ Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordina
 
 # 🏆 Vull saber-ne més
 Desglosam el codi:
-
+## Part 1:
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -61,6 +61,8 @@ numero_contrasenyes = int(input('Quantes contrasenyes vols generar? '))
 numero_caracters = int(input('Introdueix la llargària (número) de caràcters que vols que tengui... '))
 so = int(input('Finalment, és una contrasenya a emprar a un sistema Windows (1) o Linux (2)? (Si no ho tens clar tria l\'opció 1) '))
 
+```
+## Part 2:
 
 # Execució:
 if so == 1:
